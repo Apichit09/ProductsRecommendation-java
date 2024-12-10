@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lib",
+			"path": "../../Project/lib"
+		},
+		{
+			"name": "ProductRecommendationSystem",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
